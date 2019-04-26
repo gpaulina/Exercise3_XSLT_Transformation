@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><watchingLibraryReport>
+<author>Autorzy: Paulina Gałan i Aleksandra Wnuk</author>
+<item no="1" type="series" rate="8.9" country="USA" genre="Fantasy" creator="David Benioff, D.B. Weiss" releaseDate="2011">"Game of Thrones"</item>
+<item no="2" type="series" rate="8.8" country="USA" genre="Crime" creator="Vince Gilligan" releaseDate="2008">"Breaking Bad"</item>
+<item no="3" type="series" rate="8.6" country="Colombia" genre="Crime" creator="Carlo Bernard, Chris Brancato, Doug Miro" releaseDate="2015">"Narcos"</item>
+<item no="4" type="series" rate="8.5" country="UK" genre="Action" creator="Michael Hirst" releaseDate="2013">"Vikings"</item>
+<item no="5" type="movie" rate="8.3" country="Japan" genre="Animation" creator="Makoto Shinkai" releaseDate="2016-08-26">"Kimi no na wa."</item>
+<item no="6" type="series" rate="8.2" country="USA" genre="Drama" creator="David Shore" releaseDate="2004">"Dr House"</item>
+<item no="7" type="series" rate="8.2" country="USA" genre="Comedy" creator="David Crane, Marta Kauffman" releaseDate="1994">"Friends"</item>
+<item no="8" type="series" rate="8.1" country="Canada" genre="Drama" creator="Moira Walley-Beckett" releaseDate="2017">"Anne with an 'E'"</item>
+<item no="9" type="series" rate="8.0" country="USA" genre="Sci-Fi" creator="J. Michael Straczynski, Lana Wachowski, Lilly Wachowski" releaseDate="2015">"Sense8"</item>
+<item no="10" type="movie" rate="7.9" country="USA" genre="Animation" creator="Wes Anderson" releaseDate="2018-02-15">"Isle of Dogs"</item>
+<item no="11" type="series" rate="7.9" country="USA" genre="other" creator="Frank Darabont, Angela Kang" releaseDate="2010">"The Walking Dead"</item>
+<item no="12" type="movie" rate="7.8" country="USA" genre="Musical" creator="Mark Sandrich" releaseDate="1935-09-06">"Top Hat"</item>
+<item no="13" type="movie" rate="7.7" country="USA" genre="Musical" creator="Michael Gracey" releaseDate="2017-12-20">"The Greatest Showman"</item>
+<item no="14" type="series" rate="7.7" country="USA" genre="Sci-Fi" creator="Jason Rothenberg" releaseDate="2014">"The 100"</item>
+<item no="15" type="series" rate="7.7" country="USA" genre="Fantasy" creator="Julie Plec, Kevin Williamson" releaseDate="2009">"The Vampire Diaries"</item>
+<item no="16" type="movie" rate="7.6" country="USA" genre="Musical" creator="Joel Schumacher" releaseDate="2004-12-09">"The Phantom of the Opera"</item>
+<item no="17" type="movie" rate="7.5" country="Ireland" genre="Music" creator="John Carney" releaseDate="2016-03-17">"Sing Street"</item>
+<item no="18" type="movie" rate="7.5" country="USA" genre="Animation" creator="Wes Anderson" releaseDate="2009-10-14">"Fantastic Mr. Fox"</item>
+<item no="19" type="movie" rate="7.5" country="USA" genre="Animation" creator="Tim Burton" releaseDate="2005-09-07">"Corpse Bride"</item>
+<item no="20" type="movie" rate="7.5" country="USA" genre="Animation" creator="Eric Goldberg, Mike Gabriel" releaseDate="1995-06-15">"Pocahontas"</item>
+<item no="21" type="movie" rate="7.3" country="Japan" genre="Animation" creator="Hiroyuki Morita" releaseDate="2002-07-19">"Neko no ongaeshi"</item>
+<item no="22" type="series" rate="7.3" country="Poland" genre="War" creator="Maciej Dejczer" releaseDate="2012">"Misja Afganistan"</item>
+<item no="23" type="movie" rate="7.2" country="USA" genre="Comedy" creator="Tim Burton" releaseDate="1988-03-30">"Beetlejuice"</item>
+<item no="24" type="movie" rate="7.1" country="UK" genre="Drama" creator="David Mackenzie" releaseDate="2011-01-24">"Perfect Sense"</item>
+<item no="25" type="series" rate="7.1" country="Brazil" genre="Sci-Fi" creator="Pedro Aguilera" releaseDate="2016">"3%"</item>
+<item no="26" type="movie" rate="7.0" country="USA" genre="Drama" creator="Paul Thomas Anderson" releaseDate="2017-12-11">"Phantom Thread"</item>
+<item no="27" type="series" rate="6.6" country="USA" genre="Comedy" creator="Ron Leavitt, Michael G. Moye" releaseDate="1986">"Married with Children"</item>
+<item no="28" type="series" rate="6.4" country="USA" genre="Fantasy" creator="Ed Decter" releaseDate="2016">"Shadowhunters"</item>
+<item no="29" type="movie" rate="6.2" country="USA" genre="Comedy" creator="John Cameron Mitchell" releaseDate="2017-05-21">"How to Talk to Girls at Parties"</item>
+<item no="30" type="movie" rate="6.1" country="USA" genre="Sci-Fi" creator="Alex Garland" releaseDate="2018-02-22">"Annihilation"</item>
+<summary>
+<itemsCount>30</itemsCount>
+<USAmoviesCount>11</USAmoviesCount>
+<Sci-FiseriesCount>3</Sci-FiseriesCount>
+<itemsForUnder15Count>14</itemsForUnder15Count>
+<averageMoviesRate>7.346666666666666</averageMoviesRate>
+<averageSeriesRate>7.866666666666666</averageSeriesRate>
+<date>Created in 2018</date>
+</summary>
+</watchingLibraryReport>

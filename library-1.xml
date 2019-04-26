@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-2"?>
+<?xml-stylesheet type="text/xsl" href="xhtml_transform.xslt"?>
+
+<watchingLibrary>
+	
+	<authors>
+		<author>Paulina Gałan</author>
+		<author>Aleksandra Wnuk</author>
+	</authors>
+	<img width="100" height="100" src="{Desktop//cat.jpeg}" class="CalloutRightPhoto"/>
+	<description>
+		Chosen movies and series with their parameters
+	</description>
+	<types>
+		<type type_id = "movie" >Movies</type>
+		<type type_id = "series" >Series</type>
+	</types>
+	<genres>
+		<genre genre_id = "g01">Animation</genre>
+		<genre genre_id = "g02">Drama</genre>
+		<genre genre_id = "g03">Music</genre>
+		<genre genre_id = "g04">Comedy</genre>
+		<genre genre_id = "g05">Musical</genre>
+		<genre genre_id = "g06">Sci-Fi</genre>
+		<genre genre_id = "g07">Fantasy</genre>
+		<genre genre_id = "g08">Crime</genre>
+		<genre genre_id = "g09">War</genre>
+		<genre genre_id = "g10">Action</genre>
+		<genre genre_id = "g11">Horror</genre>
+	</genres>
+	<countries>
+		<country c_id = "c01">Japan</country>
+		<country c_id = "c02">UK</country>
+		<country c_id = "c03">Ireland</country>
+		<country c_id = "c04">USA</country>
+		<country c_id = "c05">Canada</country>
+		<country c_id = "c06">Poland</country>
+		<country c_id = "c07">Colombia</country>
+		<country c_id = "c08">Brazil</country>
+	</countries>
+	<list>
+		<item no="m01" type_id = "movie" genre_idref = "g01" c_idref ="c01">
+			<title>Kimi no na wa.</title>
+			<release>2016-08-26</release> 
+			<creator>Makoto Shinkai</creator>
+			<ageLimit>12</ageLimit>
+			<awards>
+				<wins>14</wins>
+				<nominations>22</nominations>
+			</awards>
+			<rate>8.3</rate>
+			<time>PT1H46M</time>
+		</item>
+		<item no="m02" type_id = "movie" genre_idref = "g02" c_idref ="c02">
+			<title>Perfect Sense</title>
+			<release>2011-01-24</release> 
+			<creator>David Mackenzie</creator>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>3</wins>
+				<nominations>3</nominations>
+			</awards>
+			<rate>7.1</rate>
+			<time>PT1H32M</time>
+		</item>
+		<item no="m03" type_id = "movie" genre_idref = "g03" c_idref ="c03">
+			<title>Sing Street</title>
+			<release>2016-03-17</release> 
+			<creator>John Carney</creator>
+			<ageLimit>13</ageLimit>
+			<awards>
+				<wins>13</wins>
+				<nominations>39</nominations>
+			</awards>
+			<rate>7.5</rate>
+			<time>PT1H46M</time>
+		</item>
+		<item no="m04" type_id = "movie" genre_idref = "g04" c_idref ="c04">
+			<title>How to Talk to Girls at Parties</title>
+			<release>2017-05-21</release> 
+			<creator>John Cameron Mitchell</creator>
+			<ageLimit>17</ageLimit>
+			<awards>
+				<wins>0</wins>
+				<nominations>6</nominations>
+			</awards>
+			<rate>6.2</rate>
+			<time>PT1H42M</time>
+		</item>
+		<item no="m05" type_id = "movie" genre_idref = "g05" c_idref ="c04">
+			<title>The Greatest Showman</title>
+			<release>2017-12-20</release> 
+			<creator>Michael Gracey</creator>
+			<ageLimit>10</ageLimit>
+			<awards>
+				<wins>14</wins>
+				<nominations>28</nominations>
+			</awards>
+			<rate>7.7</rate>
+			<time>PT1H45M</time>
+		</item>
+		<item no="m06" type_id = "movie" genre_idref = "g01" c_idref ="c04">
+			<title>Fantastic Mr. Fox</title>
+			<release>2009-10-14</release> 
+			<creator>Wes Anderson</creator>
+			<ageLimit>7</ageLimit>
+			<awards>
+				<wins>32</wins>
+				<nominations>62</nominations>
+			</awards>
+			<rate>7.5</rate>
+			<time>PT1H27M</time>
+		</item>
+		<item no="m07" type_id = "movie" genre_idref = "g01" c_idref ="c04">
+			<title>Isle of Dogs</title>
+			<release>2018-02-15</release> 
+			<creator>Wes Anderson</creator>
+			<ageLimit>11</ageLimit>
+			<awards>
+				<wins>7</wins>
+				<nominations>5</nominations>
+			</awards>
+			<rate>7.9</rate>
+			<time>PT1H41M</time>
+		</item>
+		<item no="m08" type_id = "movie" genre_idref = "g04" c_idref ="c04">
+			<title>Beetlejuice</title>
+			<release>1988-03-30</release> 
+			<creator>Tim Burton</creator>
+			<ageLimit>13</ageLimit>
+			<awards>
+				<wins>7</wins>
+				<nominations>11</nominations>
+			</awards>
+			<rate>7.2</rate>
+			<time>PT1H32M</time>
+		</item>
+		<item no="m09" type_id = "movie" genre_idref = "g01" c_idref ="c01">
+			<title>Neko no ongaeshi</title>
+			<release>2002-07-19</release>  
+			<creator>Hiroyuki Morita</creator>
+			<ageLimit>10</ageLimit>
+			<awards>
+				<wins>0</wins>
+				<nominations>1</nominations>
+			</awards>
+			<rate>7.3</rate>
+			<time>PT1H15M</time>
+		</item>
+		<item no="m10" type_id = "movie" genre_idref = "g01" c_idref ="c04">
+			<title>Corpse Bride</title>
+			<release>2005-09-07</release> 
+			<creator>Tim Burton</creator>
+			<ageLimit>10</ageLimit>
+			<awards>
+				<wins>9</wins>
+				<nominations>29</nominations>
+			</awards>
+			<rate>7.5</rate>
+			<time>PT1H17M</time>
+		</item>
+		<item no="m11" type_id = "movie" genre_idref = "g02" c_idref ="c04">
+			<title>Phantom Thread</title>
+			<release>2017-12-11</release> 
+			<creator>Paul Thomas Anderson</creator>
+			<ageLimit>15</ageLimit>
+			<awards>
+				<wins>49</wins>
+				<nominations>94</nominations>
+			</awards>
+			<rate>7.0</rate>
+			<time>PT2H10M</time>
+		</item>
+		<item no="m12" type_id = "movie" genre_idref = "g05" c_idref ="c04">
+			<title>The Phantom of the Opera</title>
+			<release>2004-12-09</release> 
+			<creator>Joel Schumacher</creator>
+			<ageLimit>13</ageLimit>
+			<awards>
+				<wins>7</wins>
+				<nominations>42</nominations>
+			</awards>
+			<rate>7.6</rate>
+			<time>PT2H23M</time>
+		</item>
+		<item no="m13" type_id = "movie" genre_idref = "g05" c_idref ="c04">
+			<title>Top Hat</title>
+			<release>1935-09-06</release> 
+			<creator>Mark Sandrich</creator>
+			<ageLimit>12</ageLimit>
+			<awards>
+				<wins>2</wins>
+				<nominations>6</nominations>
+			</awards>
+			<rate>7.8</rate>
+			<time>PT1H41M</time>
+		</item>
+		<item no="m14" type_id = "movie" genre_idref = "g01" c_idref ="c04">
+			<title>Pocahontas</title>
+			<release>1995-06-15</release> 
+			<creator>Eric Goldberg, Mike Gabriel</creator>
+			<ageLimit>6</ageLimit>
+			<awards>
+				<wins>15</wins>
+				<nominations>6</nominations>
+			</awards>
+			<rate>7.5</rate>
+			<time>PT1H21M</time>
+		</item>
+		<item no="m15" type_id = "movie" genre_idref = "g06" c_idref ="c04">
+			<title>Annihilation</title>
+			<release>2018-02-22</release> 
+			<creator>Alex Garland</creator>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>0</wins>
+				<nominations>8</nominations>
+			</awards>
+			<rate>6.1</rate>
+			<time>PT1H55M</time>
+		</item>
+		<item no="s01" type_id = "series" genre_idref = "g02" c_idref ="c05">
+			<title>Anne with an 'E'</title>
+			<year>2017</year>
+			<creator>Moira Walley-Beckett</creator>
+			<parts>
+				<seasons>2</seasons>
+				<episodes>17</episodes>
+			</parts>
+			<ageLimit>7</ageLimit>
+			<awards>
+				<wins>5</wins>
+				<nominations>12</nominations>
+			</awards>
+			<rate>8.1</rate>
+		</item>
+		<item no="s02" type_id = "series" genre_idref = "g08" c_idref ="c04">
+			<title>Breaking Bad</title>
+			<year>2008</year>
+			<creator>Vince Gilligan</creator>
+			<parts>
+				<seasons>5</seasons>
+				<episodes>62</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>147</wins>
+				<nominations>227</nominations>
+			</awards>
+			<rate>8.8</rate>
+		</item>
+		<item no="s03" type_id = "series" genre_idref = "g07" c_idref ="c04">
+			<title>Game of Thrones</title>
+			<year>2011</year>
+			<creator>David Benioff, D.B. Weiss</creator>
+			<parts>
+				<seasons>7</seasons>
+				<episodes>73</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>296</wins>
+				<nominations>496</nominations>
+			</awards>
+			<rate>8.9</rate>
+		</item>
+		<item no="s04" type_id = "series" genre_idref = "g09" c_idref ="c06">
+			<title>Misja Afganistan</title>
+			<year>2012</year>
+			<creator>Maciej Dejczer</creator>
+			<parts>
+				<seasons>1</seasons>
+				<episodes>13</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>0</wins>
+				<nominations>0</nominations>
+			</awards>
+			<rate>7.3</rate>
+		</item>
+		<item no="s05" type_id = "series" genre_idref = "g10" c_idref ="c02">
+			<title>Vikings</title>
+			<year>2013</year>
+			<creator>Michael Hirst</creator>
+			<parts>
+				<seasons>5</seasons>
+				<episodes>90</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>27</wins>
+				<nominations>91</nominations>
+			</awards>
+			<rate>8.5</rate>
+		</item>
+		<item no="s06" type_id = "series" genre_idref = "g06" c_idref ="c04">
+			<title>Sense8</title>
+			<year>2015</year>
+			<creator>J. Michael Straczynski, Lana Wachowski, Lilly Wachowski</creator>
+			<parts>
+				<seasons>2</seasons>
+				<episodes>24</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>2</wins>
+				<nominations>10</nominations>
+			</awards>
+			<rate>8.0</rate>
+		</item>
+		<item no="s07" type_id = "series" genre_idref = "g07" c_idref ="c04">
+			<title>Shadowhunters</title>
+			<year>2016</year>
+			<creator>Ed Decter</creator>
+			<parts>
+				<seasons>3</seasons>
+				<episodes>55</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>7</wins>
+				<nominations>15</nominations>
+			</awards>
+			<rate>6.4</rate>
+		</item>
+		<item no="s08" type_id = "series" genre_idref = "g08" c_idref ="c07">
+			<title>Narcos</title>
+			<year>2015</year>
+			<creator>Carlo Bernard, Chris Brancato, Doug Miro</creator>
+			<parts>
+				<seasons>3</seasons>
+				<episodes>30</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>7</wins>
+				<nominations>17</nominations>
+			</awards>
+			<rate>8.6</rate>
+		</item>
+		<item no="s09" type_id = "series" genre_idref = "g02" c_idref ="c04">
+			<title>Dr House</title>
+			<year>2004</year>
+			<creator>David Shore</creator>
+			<parts>
+				<seasons>8</seasons>
+				<episodes>176</episodes>
+			</parts>
+			<ageLimit>14</ageLimit>
+			<awards>
+				<wins>56</wins>
+				<nominations>131</nominations>
+			</awards>
+			<rate>8.2</rate>
+		</item>
+		<item no="s10" type_id = "series" genre_idref = "g04" c_idref ="c04">
+			<title>Friends</title>
+			<year>1994</year>
+			<creator>David Crane, Marta Kauffman</creator>
+			<parts>
+				<seasons>10</seasons>
+				<episodes>236</episodes>
+			</parts>
+			<ageLimit>14</ageLimit>
+			<awards>
+				<wins>70</wins>
+				<nominations>211</nominations>
+			</awards>
+			<rate>8.2</rate>
+		</item>
+		<item no="s11" type_id = "series" genre_idref = "g04" c_idref ="c04">
+			<title>Married with Children</title>
+			<year>1986</year>
+			<creator>Ron Leavitt, Michael G. Moye</creator>
+			<parts>
+				<seasons>11</seasons>
+				<episodes>263</episodes>
+			</parts>
+			<ageLimit>15</ageLimit>
+			<awards>
+				<wins>6</wins>
+				<nominations>29</nominations>
+			</awards>
+			<rate>6.6</rate>
+		</item>
+		<item no="s12" type_id = "series" genre_idref = "g06" c_idref ="c08">
+			<title>3%</title>
+			<year>2016</year>
+			<creator>Pedro Aguilera</creator>
+			<parts>
+				<seasons>2</seasons>
+				<episodes>20</episodes>
+			</parts>
+			<ageLimit>15</ageLimit>
+			<awards>
+				<wins>0</wins>
+				<nominations>1</nominations>
+			</awards>
+			<rate>7.1</rate>
+		</item>
+		<item no="s13" type_id = "series" genre_idref = "g06" c_idref ="c04">
+			<title>The 100</title>
+			<year>2014</year>
+			<creator>Jason Rothenberg</creator>
+			<parts>
+				<seasons>5</seasons>
+				<episodes>73</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>4</wins>
+				<nominations>29</nominations>
+			</awards>
+			<rate>7.7</rate>
+		</item>
+		<item no="s14" type_id = "series" genre_idref = "g07" c_idref ="c04">
+			<title>The Vampire Diaries</title>
+			<year>2009</year>
+			<creator>Julie Plec, Kevin Williamson</creator>
+			<parts>
+				<seasons>8</seasons>
+				<episodes>171</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>36</wins>
+				<nominations>66</nominations>
+			</awards>
+			<rate>7.7</rate>
+		</item>
+		<item no="s15" type_id = "series" genre_idref = "g11" c_idref ="c04">
+			<title>The Walking Dead</title>
+			<year>2010</year>
+			<creator>Frank Darabont, Angela Kang</creator>
+			<parts>
+				<seasons>8</seasons>
+				<episodes>131</episodes>
+			</parts>
+			<ageLimit>16</ageLimit>
+			<awards>
+				<wins>70</wins>
+				<nominations>190</nominations>
+			</awards>
+			<rate>7.9</rate>
+		</item>
+	</list>
+	<footer>Created in 2018</footer>
+</watchingLibrary>
